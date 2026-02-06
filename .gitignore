@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Motion cache and temporary files
+*.cache
+*.autosave
+*~.moti
+
+# Rendered output (if you're rendering previews)
+*.mov
+*.mp4
+*.m4v
+
+# Only if you want to exclude large media assets
+# Uncomment if your Media folders contain large files you don't want in version control
+# Media/
+
+# Final Cut Pro/Motion shared cache
+/Library/Application Support/Motion/
+
+# Backup files
+*.bak
+*_backup
+
+# Log files
+*.log
