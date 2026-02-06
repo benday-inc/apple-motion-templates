@@ -2,6 +2,13 @@
 
 A collection of free Motion templates for creating professional callouts and graphics in Final Cut Pro.
 
+Written by Benjamin Day  
+Pluralsight Author | Microsoft MVP | Scrum.org Professional Scrum Trainer  
+https://www.benday.com  
+https://www.honestcheetah.com
+info@benday.com  
+YouTube: https://www.youtube.com/@_benday  
+
 ## Templates Included
 
 ### Callout Text Templates
@@ -18,7 +25,7 @@ A collection of free Motion templates for creating professional callouts and gra
 - **Red Arrow with Fade (Up)** - Upward pointing arrow
 
 ### Red Rectangle Templates
-- **Red Rectangle v2** - Rectangular callout element
+- **Red Rectangle v2** - Rectangular callout element (deprecated)
 - **Red Rectangle v4** - Updated rectangular callout
 
 ## Installation
